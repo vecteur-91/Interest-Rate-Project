@@ -36,3 +36,5 @@ x = normal_values[:,0]
 y = normal_values[:,1]
 
 plt.scatter(x,y,s=1)
+
+sfsfsf
